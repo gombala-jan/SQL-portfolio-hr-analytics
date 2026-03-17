@@ -8,3 +8,6 @@ Die Aufgaben basieren auf realitätsnahen Anforderungen und zeigen meine Weitere
 
 ## Dataset
 Die Analysen basieren auf der öffentlich verfügbaren MySQL-Beispieldatenbank „Employees“, die typische Mitarbeiter- und Gehaltsdaten enthält.
+
+## Projekt
+[Portfolio öffnen](./SQL_Portfolio_Advanced_Jan_Gombala.pdf)
