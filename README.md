@@ -1,4 +1,4 @@
-# SQL-portfolio-hr-analytics
+# SQL-Portfolio-Hr-Analytics
 SQL HR-Analysen – Gehaltsstruktur und Mitarbeiterbewertung
 In diesem Projekt habe ich mehrere praxisnahe Business-Szenarien im Bereich HR-Datenanalyse umgesetzt.
 
